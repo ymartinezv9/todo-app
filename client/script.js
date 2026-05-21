@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/tasks';
+const API_URL = 'https://todo-app-a4tx.onrender.com/tasks';
 
 // Obtener tareas
 async function fetchTasks() {
